@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/nasa-project.git
+   git clone https://github.com/tura08/nasa-project.git
    ```
 2. Navigate to the project directory:
    ```
